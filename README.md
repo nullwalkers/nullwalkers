@@ -1,4 +1,5 @@
-![Black Simple Daily Inspirational Quote LinkedIn Banner](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/8de7e616-c7ee-415b-b1d3-02eaa76201b0)
+![Tech Comp](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/701767e5-6256-4c84-8ec3-ffbd753e9675)
+
 
 
 ## Hi, there!! This is my Profile.
