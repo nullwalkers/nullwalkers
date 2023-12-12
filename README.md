@@ -13,3 +13,4 @@
 ## My Skills (Programming Languages, Frameworks, and Tools)
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARAHAyu&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
+[![github-chart](https://github-chart.vercel.app/api?user=DARAHAyu)](https://github.com/DARAHAyu/github-chart)
