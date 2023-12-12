@@ -2,7 +2,6 @@
 
 
 
-## Hi, there!! This is my Profile.
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARAHAyu&theme=2077)
