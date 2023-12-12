@@ -1,5 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/eb37168f-303d-4ebb-9bb0-440ee475920d)
-
+[![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/eb37168f-303d-4ebb-9bb0-440ee475920d)
+](https://www.mihoyo.com/en/)
 
 ## Hi, there!! This is my Profile.
 
