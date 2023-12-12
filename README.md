@@ -1,3 +1,4 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/eb37168f-303d-4ebb-9bb0-440ee475920d)
 
 
 ## Hi, there!! This is my Profile.
