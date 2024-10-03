@@ -1,4 +1,4 @@
-![Tech Comp](https://github.com/DARAHAyu/DARAHAyu/assets/128980705/701767e5-6256-4c84-8ec3-ffbd753e9675)
+
 
 
 
